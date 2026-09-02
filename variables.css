@@ -1,0 +1,72 @@
+/* ==========================================================
+   EcoQuest v0.1
+   Design Tokens
+========================================================== */
+
+:root{
+
+    /* ---------- Основные цвета ---------- */
+
+    --color-primary:#4E7A4A;
+    --color-primary-dark:#355A34;
+    --color-primary-light:#A8D08D;
+
+    --color-cream:#F7F4EA;
+    --color-paper:#FFFDF8;
+
+    --color-brown:#7A5A40;
+
+    --color-blue:#D8EDF6;
+
+    --color-text:#2F312E;
+
+    --color-border:#D9D4C8;
+
+    --color-white:#FFFFFF;
+
+
+    /* ---------- Размеры ---------- */
+
+    --sidebar-width:270px;
+
+    --header-height:70px;
+
+    --container-width:1400px;
+
+
+    /* ---------- Скругления ---------- */
+
+    --radius-small:10px;
+
+    --radius-medium:16px;
+
+    --radius-large:22px;
+
+
+    /* ---------- Тени ---------- */
+
+    --shadow-soft:
+        0 10px 25px rgba(0,0,0,.08);
+
+    --shadow-hover:
+        0 14px 30px rgba(0,0,0,.12);
+
+
+    /* ---------- Отступы ---------- */
+
+    --space-xs:8px;
+
+    --space-sm:16px;
+
+    --space-md:24px;
+
+    --space-lg:40px;
+
+    --space-xl:60px;
+
+
+    /* ---------- Скорость анимаций ---------- */
+
+    --transition:.25s ease;
+
+}
